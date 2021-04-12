@@ -1,14 +1,16 @@
 # Add an Image
 
-You can write something like just text here
+Hello! How do you do!
 
 This is a bullet list:
 
+- Yes 
 - I 
-- can
+- Believe 
 - do
-- bullet
-- list
+* bullet
+* list
 * asterisks work too
 
 ## New section
+
